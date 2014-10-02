@@ -1,4 +1,4 @@
-title_tag_text: Solo, a Jekyll Theme
-h1_tag_text: Solo
+title_tag_text: To-do and Task list app for Samsung smartwatches
+h1_tag_text: To-do Gear
 
 exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
